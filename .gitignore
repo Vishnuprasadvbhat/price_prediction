@@ -1,0 +1,5 @@
+prediction_project
+.venv
+__pycache__
+.prediction_project
+.ipynb_checkpoints
