@@ -1,7 +1,18 @@
-#  pip freeze > requirements.txt
-
-#pip install -r requirements.txt
-
 streamlit
 scikit-learn==1.2.2
 numpy==1.21.0
+# numpy== 1.26.4
+
+# Kittu
+
+#vishnuprasadvbhat@ IBM password
+
+"""
+15-Jul-2024
+
+Software Engineer
+715425BR
+
+"""
+
+# Your reference number is: 11196390
